@@ -1,0 +1,13 @@
+14079 = water
+9109248 = grass
+16742400 = sand
+7434027 = dark_grass
+3681137 = ashen_earth
+16774656 = snow
+64767 = stone
+16056574 = 1bridge
+16056575 = 2bridge
+16122111 = 3bridge
+16187647 = 4bridge
+16253183 = 5bridge
+16318719 = 6bridge
